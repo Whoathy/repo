@@ -40,8 +40,8 @@
   "testMode_una" : false,
   
   "note" : "UNITYBAN",
-  "is_active_unaban" : false,
-  "top_banner_unaban" : false,
+  "is_active_unaban" : true,
+  "top_banner_unaban" : true,
   "id_banner_unaban" : "10101010110001011000011101110110111011001011110010",
   "game_id_unaban" : "101010100110100011100101101010110010011010101101010111000",
   "refresh_unaban" : 90,
