@@ -40,7 +40,7 @@
   "testMode_una" : false,
   
   "note" : "UNITYBAN",
-  "is_active_unaban" : false,
+  "is_active_unaban" : true,
   "top_banner_unaban" : true,
   "id_banner_unaban" : "10101010110001011000011101110110111011001011110010",
   "game_id_unaban" : "101010100110011011100001110010110000011100001100110110001",
@@ -48,7 +48,7 @@
   "testMode_unaban" : false,
   
   "note" : "MAX",
-  "is_active_max" : false,
+  "is_active_max" : true,
   "top_banner_max" : true,
   "time_interval_max" : 600,
   "time_after_load_max" : 605,
