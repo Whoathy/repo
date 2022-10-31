@@ -48,7 +48,7 @@
   "testMode_unaban" : false,
   
   "note" : "MAX",
-  "is_active_max" : true,
+  "is_active_max" : false,
   "top_banner_max" : true,
   "time_interval_max" : 600,
   "time_after_load_max" : 605,
