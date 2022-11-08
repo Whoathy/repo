@@ -37,7 +37,7 @@
   "pack_una" : "",
   "pe1_una" : 360,
   "pe2_una" : 370,
-  "status_una" : true,
+  "status_una" : false,
   "testMode_una" : false,
   
   "note" : "UNITYBAN",
@@ -49,8 +49,8 @@
   "testMode_unaban" : false,
   
   "note" : "MAX",
-  "is_active_max" : true,
-  "top_banner_max" : true,
+  "is_active_max" : false,
+  "top_banner_max" : false,
   "time_interval_max" : 600,
   "time_after_load_max" : 605,
   "id_banner_max" : "101010101100001110001001100010110000110001011001000110100011011011001100111001011010011000111100001011100001101000110011",
