@@ -23,7 +23,7 @@
   "status_irc" : false,
 
   "note" : "IRCBAN",
-  "is_active_ircban" : false,
+  "is_active_ircban" : true,
   "top_banner_ircban" : true,
   "time_interval_ircban" : 6000,
   "time_after_load_ircban" : 700,
