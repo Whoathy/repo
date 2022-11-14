@@ -22,12 +22,12 @@
   "status_irc" : false,
 
   "note" : "IRCBAN",
-  "is_active_ircban" : false,
-  "top_banner_ircban" : false,
+  "is_active_ircban" : true,
+  "top_banner_ircban" : true,
   "time_interval_ircban" : 6000,
   "time_after_load_ircban" : 700,
   "refresh_ircban" : 90,
-  "app_key_ircban" : "10101010011000101101101100010011000101100010110101011010001110000110101",
+  "app_key_ircban" : "10101010011000101101110110001011011101101100110000110001101110011100100",
   
   "note" : "UNITY ADS",
   "id_una" : "101010100110100011100101101010110010011010101101010111000",
