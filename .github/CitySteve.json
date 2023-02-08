@@ -1,0 +1,57 @@
+{
+  "Ads1": [
+    {
+	  "main_ads_banner":"ca--app-pub-7800652138212696/7836700831",
+      "main_ads_intertitial":"ca--app-pub-7800652138212696/8958210811",
+      "main_ads_native":"ca--app-pub-7800652138212696/7804746556",
+      "main_ads_open":"ca--app-pub-7800652138212696/5178583214"
+    }
+  ],
+  
+  "Ads2": [
+    {
+      "main_ads_banner":"ca--app-pub-7800652138212696/7261985765",
+      "main_ads_intertitial":"ca--app-pub--7800652138212696/5748743482",
+      "main_ads_native":"ca--app-pub--7800652138212696/1187367311",
+      "main_ads_open":"ca--app-pub--7800652138212696/3203156560"
+    }
+  ],
+  
+  "Ads3": [
+    {
+      "main_ads_banner":"ca--app-pub-7800652138212696/7585056063",
+      "main_ads_intertitial":"ca--app-pub-7800652138212696/7018914003",
+      "main_ads_native":"ca--app-pub-7800652138212696/6000710298",
+      "main_ads_open":"ca--app-pub-7800652138212696/3374546958"
+    }
+  ],
+  
+  "Ads4": [
+    {
+      "main_ads_banner":"ca--app-pub-7800652138212696/1877797147",
+      "main_ads_intertitial":"ca--app-pub-7800652138212696/3885190990",
+      "main_ads_native":"ca--app-pub-7800652138212696/7122220275",
+      "main_ads_open":"ca--app-pub-7800652138212696/3182975260"
+    }
+  ],
+  
+  "Ads5": [
+    {
+      "main_ads_banner":"ca--app-pub-7800652138212696/5086398501",
+      "main_ads_intertitial":"ca--app-pub-7800652138212696/7520990156",
+      "main_ads_native":"ca--app-pub-7800652138212696/5001160257",
+      "main_ads_open":"ca--app-pub-7800652138212696/1061915245"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Z",
+      "image":"Z",
+      "link":"Z"
+    }
+  ]
+}
+
