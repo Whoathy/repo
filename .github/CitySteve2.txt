@@ -1,1 +1,1 @@
-[{"id":"XXXXXX171760c9d","id1":"ca-app-pub-8388384123164849/6331780491","id2":"2","id3":"3","init":1,"note":"default","pack":"","pe1":90,"pe2":250,"status":true}]
+[{"id":"XXXXXX171760c9d","id1":"ca-app-pub-8388384123164849/1552907163","id2":"2","id3":"3","init":1,"note":"default","pack":"","pe1":90,"pe2":250,"status":true}]
