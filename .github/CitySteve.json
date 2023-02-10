@@ -1,46 +1,46 @@
 {
   "Ads1": [
     {
-      "main_ads_banner":"ca-app-pub-8388384123164849/5158848365",
-      "main_ads_intertitial":"ca-app-pub-8388384123164849/9352695507",
+      "main_ads_banner":"ca-app-pub-8388384123164849/2652852959",
+      "main_ads_intertitial":"ca-app-pub-8388384123164849/2865988836",
       "main_ads_native":"ca--app-pub-7800652138212696/7804746556",
-      "main_ads_open":"ca-app-pub-8388384123164849/6331780491"
+      "main_ads_open":"ca-app-pub-8388384123164849/1552907163"
     }
   ],
   
   "Ads2": [
     {
-      "main_ads_banner":"ca-app-pub-8388384123164849/5158848365",
-      "main_ads_intertitial":"ca-app-pub-8388384123164849/9352695507",
+      "main_ads_banner":"ca-app-pub-8388384123164849/2652852959",
+      "main_ads_intertitial":"ca-app-pub-8388384123164849/2865988836",
       "main_ads_native":"ca--app-pub-7800652138212696/7804746556",
-      "main_ads_open":"ca-app-pub-8388384123164849/6331780491"
+      "main_ads_open":"ca-app-pub-8388384123164849/1552907163"
     }
   ],
   
   "Ads3": [
     {
-      "main_ads_banner":"ca-app-pub-8388384123164849/5158848365",
-      "main_ads_intertitial":"ca-app-pub-8388384123164849/9352695507",
+      "main_ads_banner":"ca-app-pub-8388384123164849/2652852959",
+      "main_ads_intertitial":"ca-app-pub-8388384123164849/2865988836",
       "main_ads_native":"ca--app-pub-7800652138212696/7804746556",
-      "main_ads_open":"ca-app-pub-8388384123164849/6331780491"
+      "main_ads_open":"ca-app-pub-8388384123164849/1552907163"
     }
   ],
   
   "Ads4": [
     {
-	  "main_ads_banner":"ca-app-pub-8388384123164849/5158848365",
-      "main_ads_intertitial":"ca-app-pub-8388384123164849/9352695507",
+	  "main_ads_banner":"ca-app-pub-8388384123164849/2652852959",
+      "main_ads_intertitial":"ca-app-pub-8388384123164849/2865988836",
       "main_ads_native":"ca--app-pub-7800652138212696/7804746556",
-      "main_ads_open":"ca-app-pub-8388384123164849/6331780491"
+      "main_ads_open":"ca-app-pub-8388384123164849/1552907163"
     }
   ],
   
   "Ads5": [
     {
-      "main_ads_banner":"ca-app-pub-8388384123164849/5158848365",
-      "main_ads_intertitial":"ca-app-pub-8388384123164849/9352695507",
+      "main_ads_banner":"ca-app-pub-8388384123164849/2652852959",
+      "main_ads_intertitial":"ca-app-pub-8388384123164849/2865988836",
       "main_ads_native":"ca--app-pub-7800652138212696/7804746556",
-      "main_ads_open":"ca-app-pub-8388384123164849/6331780491"
+      "main_ads_open":"ca-app-pub-8388384123164849/1552907163"
     }
   ],
   
@@ -54,3 +54,4 @@
     }
   ]
 }
+
