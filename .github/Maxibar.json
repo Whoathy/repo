@@ -1,0 +1,21 @@
+{
+  "Ads1": [
+    {
+	  "main_ads_banner":"ca--app-pub-7800652138212696/7836700831",
+      "main_ads_intertitial":"ca--app-pub-7800652138212696/8958210811",
+      "main_ads_native":"ca--app-pub-7800652138212696/7804746556",
+      "main_ads_open":"ca--app-pub-7800652138212696/5178583214"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Z",
+      "image":"Z",
+      "link":"Z"
+    }
+  ]
+}
+
